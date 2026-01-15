@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nwexy, Programmer!
+# 👋 Welcome to my profile, I'm Nwexy!
 
 ## 📊 GitHub Stats
 
@@ -20,9 +20,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Project 1](#)** | Project Desc | Langs That Used |
-| **[Project 2](#)** | Project Desc | Langs That Used |
-| **[Project 3](#)** | Project Desc | Langs That Used |
+| **[Project](#)** | Project Desc | Langs That Used |
+| **[Project](#)** | Project Desc | Langs That Used |
+| **[Project](#)** | Project Desc | Langs That Used |
 
 ---
 
