@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=150&color=7827F7&center=true&vCenter=true&multiline=true&width=435&height=75&lines=Hello+there%2C+I'm+Nwexy!;I'm+a+programmer.)](https://git.io/typing-svg)
 
+---
+
 ## 📫 My Social Accounts
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msdeniz966)
