@@ -15,6 +15,8 @@
 
 ## 🚀 My Projects
 
+</div>
+
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[Project](#)** | Project Desc | Langs That Used |
@@ -23,9 +25,12 @@
 
 ---
 
+<div align="center">
+
 ⭐ **Thank you for visiting my proile!**  
+
+</div>
 
 > “Ne mutlu Türk'üm diyene”  
 > — **Mustafa Kemal Atatürk** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="20" />
 
-</div>
