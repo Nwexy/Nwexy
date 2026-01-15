@@ -1,8 +1,9 @@
 # 👋 Welcome to my profile, I'm Nwexy!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=250&color=901C07&background=D0FF4700&center=true&multiline=true&width=435&height=70&lines=Hello+there%2C+I'm+Nwexy;I'm+into+programming)](https://git.io/typing-svg)
+
 ## 📊 GitHub Stats
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=250&color=901C07&background=D0FF4700&center=true&multiline=true&width=435&height=70&lines=Hello+there%2C+I'm+Nwexy;I'm+into+programming)](https://git.io/typing-svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nwexy&theme=neon-dark&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nwexy&layout=compact&theme=radical)
 
