@@ -11,11 +11,10 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/616186436550656000)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezheldenuz@gmail.com)
 
+</div>
 ---
 
 ## 🚀 My Projects
-
-</div>
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -25,11 +24,7 @@
 
 ---
 
-<div align="center">
-
 ⭐ **Thank you for visiting my proile!**  
-
-</div>
 
 > “Ne mutlu Türk'üm diyene”  
 > — **Mustafa Kemal Atatürk** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="20" />
