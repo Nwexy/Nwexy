@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile, I'm Nwexy!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=250&color=901C07&background=D0FF4700&center=true&multiline=true&width=435&height=70&lines=Hello+there%2C+I'm+Nwexy;I'm+into+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=150&color=7827F7&center=true&vCenter=true&multiline=true&width=435&height=75&lines=Hello+there%2C+I'm+Nwexy!;I'm+a+programmer.)](https://git.io/typing-svg)
 
 ## 📫 My Social Accounts
 
