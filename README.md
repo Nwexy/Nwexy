@@ -1,4 +1,4 @@
-<center># 👋 Welcome to my profile, I'm Nwexy!
+# 👋 Welcome to my profile, I'm Nwexy!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=150&color=7827F7&center=true&vCenter=true&multiline=true&width=435&height=75&lines=Hello+there%2C+I'm+Nwexy!;I'm+a+programmer.)](https://git.io/typing-svg)
 
@@ -25,4 +25,3 @@
 
 > “Ne mutlu Türk'üm diyene”  
 > — **Mustafa Kemal Atatürk** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="20" />
-</center>
