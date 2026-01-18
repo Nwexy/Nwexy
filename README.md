@@ -25,7 +25,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Old-Multitool](https://github.com/Nwexy/Old-Multitool)** | Educational batch scripting multitool | Batchfile |
+| **[Old-Multitool](https://github.com/Nwexy/Old-Multitool)** | Educational batch scripting multitool | Batch |
 | **[Project](#)** | Project Desc | Langs That Used |
 | **[Project](#)** | Project Desc | Langs That Used |
 
