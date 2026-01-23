@@ -26,7 +26,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[Old-Multitool](https://github.com/Nwexy/Old-Multitool)** | Nwexy-Multitool | Batch |
-| **[Project](#)** | Project Desc | Langs That Used |
+| **[Nwexy-Hook](https://github.com/Nwexy/Nwexy-Hook)** | Webhook Multitool | Python |
 | **[Project](#)** | Project Desc | Langs That Used |
 
 ---
