@@ -52,3 +52,10 @@
 > “Ne mutlu Türk'üm diyene”  
 > — **Mustafa Kemal Atatürk** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="20" />
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nwexy/nwexy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nwexy/nwexy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nwexy/nwexy/output/pacman-contribution-graph.svg">
+</picture>
