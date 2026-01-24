@@ -1,48 +1,55 @@
-<h1 align="center">Hi 👋, I'm Nwexy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nwexy&label=Profile%20views&color=0e75b6&style=flat" alt="nwexy" /> </p>
+# 👋 Welcome to my profile, I'm Nwexy!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nwexy" alt="nwexy" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=150&color=7827F7&center=true&vCenter=true&multiline=true&width=435&height=75&lines=Hello+there%2C+I'm+Nwexy!;I'm+a+programmer.)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/nwexy" target="blank"><img src="https://img.shields.io/twitter/follow/nwexy?logo=twitter&style=for-the-badge" alt="nwexy" /></a> </p>
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 📫 My Social Accounts
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msdeniz966)
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/msdeniz966)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/616186436550656000)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezheldenuz@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://dev.to/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://twitter.com/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://codesandbox.com/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://kaggle.com/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://fb.com/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://instagram.com/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://dribbble.com/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://www.behance.net/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://hashnode.com/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://medium.com/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nwexy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="https://discord.gg/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nwexy" height="30" width="40" /></a>
-<a href="/nwexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nwexy" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nwexy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nwexy" /></a><a href="https://ko-fi.com/nwexy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nwexy" /></a></p><br><br>
+## 💻 Languages I Know
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nwexy&show_icons=true&locale=en&layout=compact" alt="nwexy" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nwexy&show_icons=true&locale=en" alt="nwexy" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nwexy&" alt="nwexy" /></p>
+## 🚀 My Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Old-Multitool](https://github.com/Nwexy/Old-Multitool)** | Nwexy-Multitool | Batch |
+| **[Nwexy-Hook](https://github.com/Nwexy/Nwexy-Hook)** | Webhook Multitool | Python |
+| **[Project](#)** | Project Desc | Langs That Used |
+
+---
+
+⭐ **Thank you for visiting my proile!**  
+
+> “Ne mutlu Türk'üm diyene”  
+> — **Mustafa Kemal Atatürk** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="20" />
