@@ -44,8 +44,9 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[Old-Multitool](https://github.com/Nwexy/Old-Multitool)** | Nwexy-Multitool | Batch |
-| **[Nwexy-Hook](https://github.com/Nwexy/Nwexy-Hook)** | Webhook Multitool | Python |
-| **[User Management](https://github.com/Nwexy/User-Management-App)** | User Management App | C# |
+| **[Nwexy-Hook](https://github.com/Nwexy/Nwexy-Hook)** | A multitool that you can control bot via webhook | Python |
+| **[User Management](https://github.com/Nwexy/User-Management-App)** | App that you can manage users | C# |
+| **[NwexCord](https://github.com/Nwexy/NwexCord)** | Remote Access Tool that you can control via discord bot | Python |
 
 ---
 
