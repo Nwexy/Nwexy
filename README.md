@@ -47,6 +47,7 @@
 | **[Nwexy-Hook](https://github.com/Nwexy/Nwexy-Hook)** | A multitool that you can control bot via webhook | Python |
 | **[User Management](https://github.com/Nwexy/User-Management-App)** | App that you can manage users | C# |
 | **[NwexCord](https://github.com/Nwexy/NwexCord)** | Remote Access Tool that you can control via discord bot | Python |
+| **[NwexCord](https://github.com/Nwexy/Nwexy-Manager)** | Password Manager App | Java + Kotlin |
 
 ---
 
