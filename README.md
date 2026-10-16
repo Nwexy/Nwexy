@@ -48,6 +48,8 @@
 | **[User Management](https://github.com/Nwexy/User-Management-App)** | App that you can manage users | C# |
 | **[NwexCord](https://github.com/Nwexy/NwexCord)** | Remote Access Tool that you can control via discord bot | Python |
 | **[Nwexy-Manager](https://github.com/Nwexy/Nwexy-Manager)** | Password Manager App | Java + Kotlin |
+| **[Cow-Game](https://github.com/Nwexy/Cow-Game)** | Simple Click Game | HTML-JS-CSS |
+| **[Nwexy-Manager](https://github.com/Nwexy/Russian-Learn-Web-App)** | Web App That Teachs Russian | Type Script |
 
 ---
 
